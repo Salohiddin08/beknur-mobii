@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env*
+!.env.example
+.local/
+*.tsbuildinfo
+.sites-runtime/
+public/uploads/
+
+.env.production
+
+!.env.production.example
+*.pem
+*.key
+*.p12
+*.pfx
